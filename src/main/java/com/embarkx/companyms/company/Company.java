@@ -16,7 +16,6 @@ public class Company {
     private String description;
 
 
-
     public Company() {
     }
 
